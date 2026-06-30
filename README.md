@@ -1,6 +1,6 @@
 # Excel CPI Analysis — Italy 2024
 
-**Course**: Information Processing Systems
+**Course**: Information Processing Systems  
 **Author**: Simone Giovanni Matraxia
 
 ## Overview
